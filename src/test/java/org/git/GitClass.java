@@ -18,4 +18,13 @@ public class GitClass {
 	private void testA3() {
 		System.out.println("testA3");
 	}
+	@Test
+	private void testA4() {
+		System.out.println("testA3");
+	}
+	@Test
+	private void testA5() {
+		System.out.println("testA3");
+	}
+	
 }
