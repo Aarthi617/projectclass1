@@ -27,6 +27,10 @@ public class GitClass {
 	private void testA5() {
 		System.out.println("testA5");
 	}
+	@Test
+	private void testA6() {
+		System.out.println("testA6");
+	}
 	
 }
 
