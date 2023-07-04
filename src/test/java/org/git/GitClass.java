@@ -31,6 +31,10 @@ public class GitClass {
 	private void testA6() {
 		System.out.println("testA6");
 	}
+	@Test
+	private void testA7() {
+		System.out.println("its me Aarthii");
+	}
 	
 }
 
